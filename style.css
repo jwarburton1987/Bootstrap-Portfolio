@@ -1,0 +1,57 @@
+#nametag {
+    color:white !important;
+    background-color: orange !important;
+    padding: 10px !important;
+    margin-left: 8% !important;
+    font-size: 24px !important;
+}
+
+#nametag:hover {
+    color: white !important;
+    background-color: orange !important;
+    padding: 10px !important;
+    margin-left: 8% !important;
+    font-size: 24px !important;
+}
+
+#Copyright {
+    color: darkgray !important;
+    margin: 0 auto;
+}
+
+#list-items {
+    padding: 10px !important;
+    margin-right: 20px !important;
+}
+
+#current-page {
+    color: white !important;
+}
+
+#current-page:hover {
+    color: white !important;
+}
+
+#main-content {
+    margin-top: 30px !important;
+}
+
+.card {
+    margin-bottom: 30px !important;
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+}
+
+#form {
+    width: 80% !important;
+    margin: 0 auto !important;
+    margin-top: 25px !important;
+    margin-bottom: 100px !important;
+}
+
+#about-me {
+    width: 80% !important;
+    margin: 0 auto !important;
+    margin-top: 25px !important;
+
+}

@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-this is section 2 bootstrap hw
+Use bootstrap to build a responsive portfolio website
